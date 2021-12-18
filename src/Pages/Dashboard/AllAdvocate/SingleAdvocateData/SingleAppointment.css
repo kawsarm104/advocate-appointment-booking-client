@@ -1,0 +1,12 @@
+
+.appointment-form input {
+    display: block;
+    margin-bottom: 8px;
+
+    border: 1px solid gray;
+    border-radius: 3px;
+
+}
+.error{
+    color: red;
+}
